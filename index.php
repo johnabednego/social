@@ -7,14 +7,13 @@
 	</head>
 
 <body>
-
 	<center>
 	<div id="header">
 		<div class="head-view">
 			<h2><b>biobook</b></h2>
 			<ul>
-				<li title="Sign in"><button class="btn-sign-in" value="Sign in" onclick="john()" >Sign in</button></li>
-				<li title="Sign up"><button class="btn-sign-up" value="Sign up">Sign up</button></li>
+				<li><a href="signin.php" title="Sign in"><button class="btn-sign-in" value="Sign in">Sign in</button></a></li>
+				<li><a href="signup.php" title="Sign up"><button class="btn-sign-up" value="Sign up">Sign up</button></a></li>
 			</ul>
 		</div>
 	</div>
