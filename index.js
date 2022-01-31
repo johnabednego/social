@@ -1,4 +1,5 @@
-setInterval(() => {
-    let t = document.getElementById('header')
-    t.style.display = "block"
-}, 3000);
+function john(){
+let xt = new XMLHttpRequest
+xt.open("GET", "signin.php")
+xt.send();
+}
